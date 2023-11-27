@@ -1,0 +1,14 @@
+{
+  "id" : 2,
+  "name" : "Ali Z",
+  "certificates" : [ {
+    "name" : "ORACLE",
+    "year" : 2000
+  }, {
+    "name" : "SUN",
+    "year" : 2015
+  } ],
+  "department" : {
+    "name" : "Computer Science"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 1345,
+  "address": "ul. Kochanowskiego 28/56",
+  "price": {
+    "currency": "$",
+    "wholePriceForSell": 120000,
+    "rentPricePerMonth": 550,
+    "utilitiesPricePerMonth": 120
+  },
+  "availabilityOfOtherOptions": [
+    {
+      "name": "parking place",
+      "isAvailable": true
+    },
+    {
+      "name": "TV-set",
+      "isAvailable": true
+    },
+    {
+      "name": "Wi-fi",
+      "isAvailable": true
+    },
+    {
+      "name": "Balcony",
+      "isAvailable": false
+    },
+    {
+      "name": "Elevator",
+      "isAvailable": false
+    }
+  ],
+  "tenantRequirements":{
+    "nationality": ["Poland", "Germany", "UK", "Spain"],
+    "isAllowedWithAnimals": false,
+    "isAllowedWithChildren": true
+  }
+}
